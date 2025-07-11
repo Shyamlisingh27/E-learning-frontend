@@ -1,9 +1,12 @@
 .course-study-page {
+  padding: 50px 0;
   background-color: #fff;
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
-  padding: 20px;
   border-radius: 10px;
-  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 80vh;
   width: 250px;
   transition: 0.5s;
 
